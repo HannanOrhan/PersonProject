@@ -1,6 +1,6 @@
 package Task;
 
-public class Test {
+public class SDET {
 
     //hello to testers
 }
