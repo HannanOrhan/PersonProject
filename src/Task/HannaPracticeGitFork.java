@@ -6,4 +6,6 @@ public class HannaPracticeGitFork {
 
     // trying to get the hang of this
 
+    // Day 2 of git practice added
+
 }
